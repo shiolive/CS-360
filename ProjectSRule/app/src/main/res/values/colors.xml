@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#152e97</color>
+    <color name="tan">#f7eed4</color>
+    <color name="grid">#9fc7f9</color>
+    <color name="gridHeader">#155fbf</color>
+    <color name="lightGray">#dadfe7</color>
+</resources>
